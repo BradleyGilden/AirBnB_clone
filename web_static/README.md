@@ -14,8 +14,8 @@
 
 |Files|Description|
 |-----|-----------|
-| [0-index.html](0-index.html) | basic html doc with a red header and green footer |
-| []() |  |
+| [0-index.html](0-index.html) | basic html doc with a red header and green footer with inline styling |
+| [1-index.html](1-index.html) | basic html doc with a red header and green footer with head styling |
 | []() |  |
 | []() |  |
 | []() |  |
