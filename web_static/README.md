@@ -16,10 +16,10 @@
 |-----|-----------|
 | [0-index.html](0-index.html) | basic html doc with a red header and green footer with inline styling |
 | [1-index.html](1-index.html) | basic html doc with a red header and green footer with head styling |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [2-index.html](2-index.html) | basic html doc with a red header and green footer with css file styling |
+| [styles/2-common.css](styles/2-common.css) | global styling for [2-index.html](2-index.html) |
+| [styles/2-footer.css](styles/2-footer.css) | footer styling for [2-index.html](2-index.html) |
+| [styles/2-header.css](styles/2-header.css) | header styling for [2-index.html](2-index.html) |
 | []() |  |
 | []() |  |
 | []() |  |
