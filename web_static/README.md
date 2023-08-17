@@ -24,6 +24,9 @@
 | [styles/3-common.css](styles/3-common.css) | global styling for [3-index.html](3-index.html) |
 | [styles/3-footer.css](styles/3-footer.css) | footer styling for [3-index.html](3-index.html) |
 | [styles/3-header.css](styles/3-header.css) | header styling for [3-index.html](3-index.html) |
+| [4-index.html](4-index.html) | improved html doc with search bar |
+| [styles/4-common.css](styles/4-common.css) | global styling for [4-index.html](4-index.html) |
+| [styles/4-filter.css](styles/4-filter.css) | filter styling for [4-index.html](4-index.html) |
 | []() |  |
 | []() |  |
 | []() |  |
