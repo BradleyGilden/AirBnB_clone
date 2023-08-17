@@ -9,3 +9,28 @@
 * HTML and CSS are used to style the website
 
 * All documentation is validated by [W3C](https://validator.w3.org/)
+
+## Directory Files
+
+|Files|Description|
+|-----|-----------|
+| [0-index.html](0-index.html) | basic html doc with a red header and green footer |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
