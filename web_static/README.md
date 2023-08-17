@@ -27,8 +27,8 @@
 | [4-index.html](4-index.html) | improved html doc with search bar |
 | [styles/4-common.css](styles/4-common.css) | global styling for [4-index.html](4-index.html) |
 | [styles/4-filter.css](styles/4-filter.css) | filter styling for [4-index.html](4-index.html) |
-| []() |  |
-| []() |  |
+| [5-index.html](5-index.html) | added location and amenities to search bar |
+| [styles/5-filter.css](styles/5-filter.css) | filter styling for [5-index.html](5-index.html) |
 | []() |  |
 | []() |  |
 | []() |  |
