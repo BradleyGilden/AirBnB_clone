@@ -20,6 +20,10 @@
 | [styles/2-common.css](styles/2-common.css) | global styling for [2-index.html](2-index.html) |
 | [styles/2-footer.css](styles/2-footer.css) | footer styling for [2-index.html](2-index.html) |
 | [styles/2-header.css](styles/2-header.css) | header styling for [2-index.html](2-index.html) |
+| [3-index.html](3-index.html) | improved html doc with icon and logo |
+| [styles/3-common.css](styles/3-common.css) | global styling for [3-index.html](3-index.html) |
+| [styles/3-footer.css](styles/3-footer.css) | footer styling for [3-index.html](3-index.html) |
+| [styles/3-header.css](styles/3-header.css) | header styling for [3-index.html](3-index.html) |
 | []() |  |
 | []() |  |
 | []() |  |
