@@ -19,6 +19,10 @@
 	float: right;
 }
 
+.filters button:hover {
+	opacity: 90%;
+}
+
 .locations, .amenities {
 	display: inline-block;
 	height: 100%;
