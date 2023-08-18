@@ -1,4 +1,8 @@
 /************************** PLACES STYLES *******************************/
+.places {
+	text-align: center;
+}
+
 .places h1 {
 	position: relative;
 	text-align: left;
