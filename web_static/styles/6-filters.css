@@ -74,6 +74,7 @@
 	display: none;
 	padding: 0;
 	background-color: #FAFAFA;
+	z-index: 1;
 }
 
 .filters .locations:hover .popover,
