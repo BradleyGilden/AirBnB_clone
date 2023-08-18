@@ -29,10 +29,10 @@
 | [styles/4-filter.css](styles/4-filter.css) | filter styling for [4-index.html](4-index.html) |
 | [5-index.html](5-index.html) | added location and amenities to search bar |
 | [styles/5-filter.css](styles/5-filter.css) | filter styling for [5-index.html](5-index.html) |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [6-index.html](6-index.html) | adding drop down list to state and amenities |
+| [styles/6-filter.css](styles/6-filter.css) | filter styling for [6-index.html](6-index.html) |
+| [7-index.html](7-index.html) | adding article placeholders for place info |
+| [styles/7-filter.css](styles/7-filter.css) | filter styling for [7-index.html](7-index.html) |
 | []() |  |
 | []() |  |
 | []() |  |
